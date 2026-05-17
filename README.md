@@ -72,13 +72,9 @@
 
 **<p align="center">**
 
-&#x20; **<a href="https://www.linkedin.com/in/TON\_LINKEDIN">**
-
-&#x20;   **<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" />**
-
 &#x20; **</a>**
 
-&#x20; **<a href="mailto:TON\_EMAIL">**
+&#x20; **<a href="mailto:tookyn.contact@proton.me">**
 
 &#x20;   **<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" />**
 
