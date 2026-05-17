@@ -1,0 +1,82 @@
+<svg width="1400" height="320" viewBox="0 0 1400 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tookyn GitHub profile banner</title>
+  <desc id="desc">A sharp lime themed banner with a graph motif for TookBot.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050608"/>
+      <stop offset="0.58" stop-color="#080B0B"/>
+      <stop offset="1" stop-color="#0B100C"/>
+    </linearGradient>
+
+    <radialGradient id="limeAura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1025 158) rotate(180) scale(430 210)">
+      <stop stop-color="#A3E635" stop-opacity="0.34"/>
+      <stop offset="0.42" stop-color="#84CC16" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#84CC16" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="graphLine" x1="670" y1="0" x2="1250" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ECFCCB" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="#A3E635" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#65A30D" stop-opacity="0.18"/>
+    </linearGradient>
+
+    <filter id="limeGlow" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.57  0 0 0 0 0.86  0 0 0 0 0.13  0 0 0 0.65 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#ECFCCB" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="320" fill="url(#bg)"/>
+  <rect width="1400" height="320" fill="url(#grid)"/>
+  <rect width="1400" height="320" fill="url(#limeAura)"/>
+
+  <path d="M70 58H1330" stroke="#ECFCCB" stroke-opacity="0.12"/>
+  <path d="M70 262H1330" stroke="#ECFCCB" stroke-opacity="0.12"/>
+  <path d="M70 58V262" stroke="#ECFCCB" stroke-opacity="0.12"/>
+  <path d="M1330 58V262" stroke="#ECFCCB" stroke-opacity="0.12"/>
+
+  <g transform="translate(112 101)">
+    <text x="0" y="0" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="6">
+      TOOKBOT SYSTEMS
+    </text>
+    <text x="0" y="88" fill="#F7FEE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="84" font-weight="850">
+      Tookyn
+    </text>
+    <text x="2" y="132" fill="#D9F99D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="550">
+      Discord automation. Web control. Community operations.
+    </text>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M742 221L826 156L906 185L988 108L1074 142L1160 86L1268 129" stroke="url(#graphLine)" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M742 221L826 156L906 185L988 108L1074 142L1160 86L1268 129" stroke="#A3E635" stroke-opacity="0.18" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter" filter="url(#limeGlow)"/>
+
+    <g filter="url(#limeGlow)">
+      <rect x="736" y="215" width="12" height="12" fill="#ECFCCB"/>
+      <rect x="820" y="150" width="12" height="12" fill="#A3E635"/>
+      <rect x="900" y="179" width="12" height="12" fill="#BEF264"/>
+      <rect x="982" y="102" width="12" height="12" fill="#ECFCCB"/>
+      <rect x="1068" y="136" width="12" height="12" fill="#A3E635"/>
+      <rect x="1154" y="80" width="12" height="12" fill="#ECFCCB"/>
+      <rect x="1262" y="123" width="12" height="12" fill="#84CC16"/>
+    </g>
+
+    <path d="M742 244H1268" stroke="#ECFCCB" stroke-opacity="0.08"/>
+    <path d="M742 204H1268" stroke="#ECFCCB" stroke-opacity="0.05"/>
+    <path d="M742 164H1268" stroke="#ECFCCB" stroke-opacity="0.05"/>
+    <path d="M742 124H1268" stroke="#ECFCCB" stroke-opacity="0.05"/>
+    <path d="M742 84H1268" stroke="#ECFCCB" stroke-opacity="0.05"/>
+  </g>
+
+  <g transform="translate(112 244)">
+    <rect x="0" y="0" width="170" height="2" fill="#ECFCCB"/>
+    <rect x="170" y="0" width="150" height="2" fill="#A3E635"/>
+    <rect x="320" y="0" width="82" height="2" fill="#4D7C0F"/>
+  </g>
+</svg>
