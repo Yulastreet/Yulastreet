@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./assets/banner.svg?v=2" alt="Tookyn - developer profile banner" width="100%" />
 </p>
-
-<h1 align="center">Tookyn</h1>
-
 <p align="center">
   <strong>Createur de TookBot</strong>, un bot Discord multi-fonctions avec dashboard web, systemes communautaires et outils d'administration.
 </p>
