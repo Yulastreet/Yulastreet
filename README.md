@@ -23,14 +23,18 @@
 
 ---
 
-### A propos
+<h3 align="center">A propos</h3>
 
-Je construis surtout autour de **TookBot**, mon bot Discord principal.  
-Le projet combine un bot communautaire, un dashboard Flask, une base SQLite, des modules CS2, musique, moderation, tickets, giveaways, XP, battle pass et alertes sociales.
+<p align="center">
+  Je construis surtout autour de <strong>TookBot</strong>, mon bot Discord principal.<br />
+  Le projet combine un bot communautaire, un dashboard Flask, une base SQLite, des modules CS2, musique, moderation, tickets, giveaways, XP, battle pass et alertes sociales.
+</p>
 
-Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord comme depuis le web, avec une vraie attention portee a l'experience admin.
+<p align="center">
+  Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord comme depuis le web, avec une vraie attention portee a l'experience admin.
+</p>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       <h3>TookBot en bref</h3>
@@ -53,7 +57,7 @@ Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord 
   </tr>
 </table>
 
-### Stack
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,flask,sqlite,html,css,js,docker,git,github,vscode&theme=dark" alt="Technical stack icons" />
@@ -66,9 +70,9 @@ Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord 
   <img src="https://img.shields.io/badge/Runtime-PM2%20%7C%20Docker-64748B?style=flat-square" alt="Runtime badge" />
 </p>
 
-### Projet principal
+<h3 align="center">Projet principal</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="55%">
       <h3>TookBot</h3>
@@ -87,9 +91,9 @@ Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord 
   </tr>
 </table>
 
-### Fonctionnalites
+<h3 align="center">Fonctionnalites</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="33%">
       <h3>Communaute</h3>
@@ -106,18 +110,34 @@ Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord 
   </tr>
 </table>
 
-### Statistiques
+<h3 align="center">TookBot snapshot</h3>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yulastreet&show_icons=true&hide_border=true&theme=transparent&title_color=F8FAFC&text_color=CBD5E1&icon_color=22C55E&bg_color=0B1020" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulastreet&layout=compact&hide_border=true&theme=transparent&title_color=F8FAFC&text_color=CBD5E1&bg_color=0B1020" alt="Top languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <strong>69+</strong><br />
+      <sub>commandes slash</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>16</strong><br />
+      <sub>modules bot</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>32</strong><br />
+      <sub>pages & templates web</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>2</strong><br />
+      <sub>processus PM2</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yulastreet&theme=dark&hide_border=true&background=0B1020&ring=5E6AD2&fire=22C55E&currStreakLabel=F8FAFC" alt="GitHub streak" />
 </p>
 
-### Me contacter
+<h3 align="center">Me contacter</h3>
 
 <p align="center">
   <a href="mailto:tookyn.contact@proton.me">
