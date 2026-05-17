@@ -121,10 +121,7 @@ Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord 
 
 <p align="center">
   <a href="mailto:tookyn.contact@proton.me">
-    <img src="https://img.shields.io/badge/Email-ton.email@example.com-5E6AD2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ton-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-ton--profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Email-tookyn.contact@proton.me-5E6AD2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
