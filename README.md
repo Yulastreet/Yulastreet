@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ton.email@example.com">
+  <a href="mailto:tookyn.contact@proton.me">
     <img src="https://img.shields.io/badge/Contact-email-5E6AD2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Yulastreet">
     <img src="https://img.shields.io/badge/GitHub-Yulastreet-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/Yulastreet/TookBot">
+  <a href="https://github.com/Yulastreet/discord-bot">
     <img src="https://img.shields.io/badge/Projet-TookBot-22C55E?style=for-the-badge&logo=discord&logoColor=white" alt="TookBot" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Yulastreet&style=for-the-badge&color=5E6AD2&label=PROFILE+VIEWS" alt="Profile views" />
@@ -120,7 +120,7 @@ Mon objectif : faire un bot utile au quotidien, simple a piloter depuis Discord 
 ### Me contacter
 
 <p align="center">
-  <a href="mailto:ton.email@example.com">
+  <a href="mailto:tookyn.contact@proton.me">
     <img src="https://img.shields.io/badge/Email-ton.email@example.com-5E6AD2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ton-profil">
