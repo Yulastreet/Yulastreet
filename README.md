@@ -144,7 +144,3 @@
     <img src="https://img.shields.io/badge/Email-tookyn.contact@proton.me-5E6AD2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<p align="center">
-  <sub>Design sobre, lisible et maintenable. Derniere mise a jour : 2026.</sub>
-</p>
